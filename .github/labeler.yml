@@ -1,3 +1,2 @@
 documentation:
-  - /*.md
-  - /**/*.md
+- '**/*.md'
